@@ -1,0 +1,8 @@
+{
+    "arrowParens": "avoid",
+    "endOfLine": "lf",
+    "printWidth": 160,
+    "useTabs": false,
+    "tabWidth": 2,
+    "semi": true
+}
